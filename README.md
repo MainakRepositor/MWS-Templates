@@ -1,5 +1,5 @@
 # MWS-Templates
-A collection of sample responsive web design templates.
+**A collection of sample responsive web design templates.**
 
 
 ### Table of Contents
