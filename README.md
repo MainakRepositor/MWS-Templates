@@ -1,6 +1,6 @@
 # MWS-Templates
 ### A collection of simple responsive web design templates.
-
+ 
 
 ### Table of Contents
 
