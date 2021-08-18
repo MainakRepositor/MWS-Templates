@@ -8,7 +8,7 @@
 |--------|------------------|-----------------|------|-----------|
 | 1 | Alpha | 3 | Premium | [alpha](https://alpha-mws.netlify.app/) |
 | 2 | Beta | 1 | Classic | [beta](https://beta-mws.netlify.app/) |
-| 3 | Gamma | x | X | [gamma](https://gamma-mws.netlify.app/) |
+| 3 | Gamma | 1 | Classic | [gamma](https://gamma-mws.netlify.app/) |
 | 4 | Delta | x | X | [delta](https://delta-mws.netlify.app/) |
 | 5 | Epsilon | x | X | [epsilon](https://epsilon-mws.netlify.app/) |
 | 6 | Eta | x | X | [eta](https://eta-mws.netlify.app/https://beta-mws.netlify.app/) |
