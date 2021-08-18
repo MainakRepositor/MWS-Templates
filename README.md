@@ -20,5 +20,5 @@
 | 12 | Nu | x | X | [nu](https://nu-mws.netlify.app/) |
 | 13 | Pi | x | X | [pi](https://pi-mws.netlify.app/) |
 | 14 | Chi | x | X | [chi](https://chi-mws.netlify.app/) |
-| 15 | Sigma | x | X | [sigma](https://sigma-mws.netlify.app/) |
+| 15 | Sigma | x | X | [sigma](https://sigma-mws.netlify.app/) | 
 | 16 | NewsLetter | 1 | Classic | [newsletter1](https://newslettermws.netlify.app/) | 
