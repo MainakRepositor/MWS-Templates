@@ -10,7 +10,7 @@
 | 2 | Beta | 1 | Classic | [beta](https://beta-mws.netlify.app/) |
 | 3 | Gamma | 1 | Classic | [gamma](https://gamma-mws.netlify.app/) |
 | 4 | Delta | 2 | Premium | [delta](https://delta-mws.netlify.app/) |
-| 5 | Epsilon | x | X | [epsilon](https://epsilon-mws.netlify.app/) |
+| 5 | Epsilon | 4 | Classic | [epsilon](https://epsilon-mws.netlify.app/) |
 | 6 | Eta | x | X | [eta](https://eta-mws.netlify.app/https://beta-mws.netlify.app/) |
 | 7 | Iota | x | X | [iota](https://iota-mws.netlify.app/) |
 | 8 | Theta | x | X | [theta](https://theta-mws.netlify.app/https://beta-mws.netlify.app/) |
